@@ -1,0 +1,10 @@
+Sakib Arman 6
+Sakib Berma 5
+Sakib Cat 5
+Arman Dam -1
+Berma Arman -2
+Berma Dam 1
+Cat Berma -2
+Car Eu -1
+Dam Far 3
+Eu Far 3

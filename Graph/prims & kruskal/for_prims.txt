@@ -1,0 +1,14 @@
+3
+NewYork
+LosAngeles
+Chicago
+3
+NewYork LosAngeles 4
+LosAngeles Chicago 2
+Chicago NewYork 3
+
+
+
+
+
+

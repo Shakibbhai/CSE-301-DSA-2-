@@ -1,0 +1,9 @@
+Dhaka Gazipur 20
+Dhaka Tangail 50
+Gazipur Narayanganj 35
+Gazipur Cumilla 70
+Dhaka Cumilla 60
+Tangail Gazipur 40
+Narayanganj Dhaka 30
+Narayanganj Tangail 65
+Cumilla Narayanganj 80
